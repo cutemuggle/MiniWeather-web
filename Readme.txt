@@ -1,0 +1,2 @@
+网页版天气预报在public/miniweather下查看
+同样也可以通过部署在测试号token上的访问网页按钮查看
